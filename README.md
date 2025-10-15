@@ -7,7 +7,7 @@ TO RUN THIS PROJECT FOLLOW THE STEPS :-
 2) pip install django xhtml2pdf django-widget-tweaks
 3) python manage.py makemigrations                    (pip instead of python in windows)
 4) python manage.py migrate
-5) python manage.py createssuperuser                  (create ID Password for admin)
+5) python manage.py createsuperuser                  (create ID Password for admin)
 6) python manage.py runserver
 7) Copy Url and paste in browser
 
